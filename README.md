@@ -1,5 +1,5 @@
-
-
+Hi 👋, I'm Harish Sen
+A Passionate React & Python Fullstack Developer
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
