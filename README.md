@@ -4,9 +4,8 @@
 - 🔭 I’m currently working on **Unified project**
 - 🌱 I’m currently learning **Django**
 - 💬 Ask me about **WebDevelopment**
-<!-- - 💬 Ask me about **Reactjs ,Python ,webdevelopment** -->
 - 📫 How to reach me: **poojayadav19.pc@gmail.com**
-
+<!-- - 💬 Ask me about **Reactjs ,Python ,webdevelopment** -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 
