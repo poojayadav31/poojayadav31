@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working on **Unified project**
 - 🌱 I’m currently learning **Django**
-- 💬 Ask me about **Reactjs ,Python ,webdevelopment**
+- 💬 Ask me about **WebDevelopment**
+<!-- - 💬 Ask me about **Reactjs ,Python ,webdevelopment** -->
 - 📫 How to reach me: **poojayadav19.pc@gmail.com**
 
 <!-- - 👯 I’m looking to collaborate on ... -->
