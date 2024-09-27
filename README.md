@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pooja Yadav</h1>
 <h3 align="center">A Passionate React.js & Python Fullstack Developer</h3>
-<img align="right" alt="coding" width="400" margin-top="10px" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poojayadav31&label=Profile%20views&color=0e75b6&style=flat" alt="poojayadav31" /> </p>
 
 - 🔭 I’m currently working on **Something Intresting**
@@ -33,7 +33,7 @@
 </p>
 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poojayadav31&show_icons=true&locale=en&layout=compact" alt="poojayadav31" /></p>
-
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poojayadav31&show_icons=true&locale=en" alt="poojayadav31" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poojayadav31&" alt="poojayadav31" /></p>
