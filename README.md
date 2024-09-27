@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pooja Yadav</h1>
 <h3 align="center">A Passionate React.js & Python Fullstack Developer</h3>
 
-- 🔭 I’m currently working on **Unified project**
+- 🔭 I’m currently working on **Something Intresting**
 - 🌱 I’m currently learning **Django**
 - 💬 Ask me about **WebDevelopment**
 - 📫 How to reach me: **poojayadav19.pc@gmail.com**
@@ -35,3 +35,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poojayadav31&show_icons=true&locale=en" alt="poojayadav31" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poojayadav31&" alt="poojayadav31" /></p>
+
+
+### :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poojayadav31&layout=compact" alt="poojayadav31" /></a> </p>
