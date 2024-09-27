@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pooja Yadav</h1>
 <h3 align="center">A Passionate React.js & Python Fullstack Developer</h3>
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmelinachenani&psig=AOvVaw2c0uRfOfF4OoUaU2HoQxEU&ust=1727507298700000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKiT4qnI4ogDFQAAAAAdAAAAABBJ">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=poojayadav31&label=Profile%20views&color=0e75b6&style=flat" alt="poojayadav31" /> </p>
 
 - 🔭 I’m currently working on **Something Intresting**
 - 🌱 I’m currently learning **Django**
